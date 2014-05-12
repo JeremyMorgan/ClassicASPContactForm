@@ -1,0 +1,6 @@
+c:\users\jeremy\documents\visual studio 2013\Projects\ClassicContact\ContactForm\bin\ContactForm.dll.config
+c:\users\jeremy\documents\visual studio 2013\Projects\ClassicContact\ContactForm\bin\ContactForm.dll
+c:\users\jeremy\documents\visual studio 2013\Projects\ClassicContact\ContactForm\bin\ContactForm.pdb
+c:\users\jeremy\documents\visual studio 2013\Projects\ClassicContact\ContactForm\obj\Debug\ContactForm.dll
+c:\users\jeremy\documents\visual studio 2013\Projects\ClassicContact\ContactForm\obj\Debug\ContactForm.pdb
+c:\users\jeremy\documents\visual studio 2013\Projects\ClassicContact\ContactForm\obj\Debug\ContactForm.csprojResolveAssemblyReference.cache

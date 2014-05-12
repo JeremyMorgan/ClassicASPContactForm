@@ -1,0 +1,5 @@
+c:\users\jeremy\documents\visual studio 2013\Projects\ClassicContact\ClassicContact\bin\ClassicContact.dll.config
+c:\users\jeremy\documents\visual studio 2013\Projects\ClassicContact\ClassicContact\bin\ClassicContact.dll
+c:\users\jeremy\documents\visual studio 2013\Projects\ClassicContact\ClassicContact\bin\ClassicContact.pdb
+c:\users\jeremy\documents\visual studio 2013\Projects\ClassicContact\ClassicContact\obj\Debug\ClassicContact.dll
+c:\users\jeremy\documents\visual studio 2013\Projects\ClassicContact\ClassicContact\obj\Debug\ClassicContact.pdb
